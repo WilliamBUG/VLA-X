@@ -51,16 +51,18 @@ Welcome to the **VLA-X Roadmap**! Here, we outline our **milestones and upcoming
 
 **VLA-X** is currently supported by two researchers from both **industry and academia**. We aim to foster cross-disciplinary discussions and collaboration between the industrial and research communities, ensuring that VLA-X remains both practical and effective for real-world applications.
 
+🛠 All contributors have **contributed equally** to the development and progress of VLA-X. Contributions are listed in no particular order.
+
 ### 🏆 **Core Team**  
 
 - 👨‍💻 **Tan Xiaoyu** ([@GoogleScholar](https://scholar.google.com/citations?user=ftq5rBYAAAAJ&hl=en)) – **Project Lead**  
   *AI researcher specializing in LLMs and VLMs, with a focus on their industrial applications. He is currently an algorithm scientist at INF Technology.*  
 
 - 👨‍💻 **Wang Jinghe** ([@Github](https://github.com/Notfound-JH)) – **Model Engineering, Training Pipeline**  
-  *Researcher in robotics with expertise in LLMs, agents, multimodal learning, and deep learning architectures. She holds an M.S. from Tsinghua University.*  
+  *Researcher in robotics with expertise in LLMs, agents, multimodal learning, and deep learning architectures. She holds an M.S. from Tsinghua University.*
 
 
-### **🌟 Get Involved!**
+# **🌟 Get Involved!**
 
 We **welcome contributions** from researchers, developers, and AI enthusiasts. If you’re passionate about **VLA research**, feel free to:  
 ⭐ **Star this repo ⭐** to show your support!  
