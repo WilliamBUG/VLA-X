@@ -49,25 +49,26 @@ Welcome to the **VLA-X Roadmap**! Here, we outline our **milestones and upcoming
 
 # 🌟 **Contributors**  
 
-VLA-X is currently supported by two researchers from both **industry and academia**. We aim to foster cross-disciplinary discussions and collaboration between the industrial and research communities, ensuring that VLA-X remains both practical and effective for real-world applications.
+**VLA-X** is currently supported by two researchers from both **industry and academia**. We aim to foster cross-disciplinary discussions and collaboration between the industrial and research communities, ensuring that VLA-X remains both practical and effective for real-world applications.
 
 ### 🏆 **Core Team**  
 
-- ![@YourGitHub](https://github.com/WilliamBUG.png?size=20) **Tan Xiaoyu** ([@GoogleScholar](https://scholar.google.com/citations?user=ftq5rBYAAAAJ&hl=en)) – **Project Lead**  
+- 👨‍💻 **Tan Xiaoyu** ([@GoogleScholar](https://scholar.google.com/citations?user=ftq5rBYAAAAJ&hl=en)) – **Project Lead**  
   *AI researcher specializing in LLMs and VLMs, with a focus on their industrial applications. He is currently an algorithm scientist at INF Technology.*  
 
-- ![@User1](https://github.com/Notfound-JH.png?size=20) **Wang Jinghe** ([@Github](https://github.com/Notfound-JH)) – **Model Engineering, Training Pipeline**  
+- 👨‍💻 **Wang Jinghe** ([@Github](https://github.com/Notfound-JH)) – **Model Engineering, Training Pipeline**  
   *Researcher in robotics with expertise in LLMs, agents, multimodal learning, and deep learning architectures. She holds an M.S. from Tsinghua University.*  
 
 
 ### **🌟 Get Involved!**
+
 We **welcome contributions** from researchers, developers, and AI enthusiasts. If you’re passionate about **VLA research**, feel free to:  
 ⭐ **Star this repo ⭐** to show your support!  
 🚀 **Try out the framework** and share feedback!  
 🛠 **Fork and contribute** – Every contribution counts!  
 💡 **Discuss new ideas & research directions** 
 
-Stay tuned for updates, and let’s build the future of **Vision-Language-Action intelligence** together! 🚀🔥  
+We would like to invite more contributors around **Q2 2025**! Stay tuned for updates, and let’s build the future of **Embodied Intelligence** together! 🚀🔥  
 
 
 
