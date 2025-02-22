@@ -53,10 +53,10 @@ VLA-X is currently supported by two researchers from both **industry and academi
 
 ### 🏆 **Core Team**  
 
-- ![@YourGitHub](https://github.com/WilliamBUG.png?size=30) **Tan Xiaoyu** ([@GoogleScholar](https://scholar.google.com/citations?user=ftq5rBYAAAAJ&hl=en)) – **Project Lead**  
+- ![@YourGitHub](https://github.com/WilliamBUG.png?size=20) **Tan Xiaoyu** ([@GoogleScholar](https://scholar.google.com/citations?user=ftq5rBYAAAAJ&hl=en)) – **Project Lead**  
   *AI researcher specializing in LLMs and VLMs, with a focus on their industrial applications. He is currently an algorithm scientist at INF Technology.*  
 
-- ![@User1](https://github.com/User1.png?size=30) **Wang Jinghe** ([@GoogleScholar](https://github.com/User1)) – **Model Engineering, Training Pipeline**  
+- ![@User1](https://github.com/Notfound-JH.png?size=20) **Wang Jinghe** ([@Github](https://github.com/Notfound-JH)) – **Model Engineering, Training Pipeline**  
   *Researcher in robotics with expertise in LLMs, agents, multimodal learning, and deep learning architectures. She holds an M.S. from Tsinghua University.*  
 
 
