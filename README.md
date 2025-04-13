@@ -18,7 +18,7 @@ With the rapid evolution of **large language models (LLMs)** and **multimodal AI
 * 📖 **Research**: We actively share our **ideas, findings, and latest research progress** in VLA, fostering an open dialogue with the community.  
 
 * 🎓 **Tutorials & Learning**: Once our framework reaches maturity, we will release a series of **tutorials and guides**, making it easier for the community to **understand, experiment, and contribute** to VLA research.  
-
+ß
 Let’s build the future of **embodied intelligence**—one open-source step at a time. 🚀🔥  
 
 <p align="center">
@@ -32,20 +32,26 @@ Welcome to the **VLA-X Roadmap**! Here, we outline our **milestones and upcoming
 
 ---
 
-### 📌 **Phase 1: Foundation & Validation (Q1 2025)**
-✅ Initiate the **VLA-X project**, documentation, and initial codebase  
-✅ Initiate the first VLA model training with **SOTA VLMs** (Training started at 2025.02.22 with Qwen2.5-VL under OpenVLA framework).  
-⬜ Publish **initial reproduction results** with different models and datasets  
-⬜ Open discussion on **key findings in reproduction**  
+### 📌 **Phase 1: Foundation & Validation (Before May,2025)**
+✅ Kick off the VLA-X project, with initial documentation and codebase setup 🥳   
+✅ Implement the OpenPI-0 (Torch version) model architecture based on Paligemma 🥳  
+⬜ Reproduce baseline results across different models and datasets for validation   
+⬜ Develop an initial modular VLA framework, allowing easy VLM swapping
+
+🎯 **Goal**: Establish a working prototype that supports reproduction and initial training of vision-language models (VLMs), with modularity to enable flexible model replacement.
 
 ---
 
-### ⚙️ **Phase 2: Framework Construction (Q2 2025)**
-⬜ Build a **modular VLA framework** that supports **multiple SOTA VLM backbones**  
-⬜ Design **plug-and-play** interfaces for swapping **different VLMs**  
-⬜ Implement **pretraining & fine-tuning pipelines** for **easy customization**  
-⬜ Release **first framework version (v0.1) with baseline models**  
+### ⚙️ **Phase 2: Framework Expansion & Complex Task Research (Q2 2025)**
 
+⬜ Expand the VLA framework to support multiple SOTA VLM backbones   
+⬜ Design plug-and-play interfaces for easily switching between VLMs   
+⬜ Build robust pretraining & fine-tuning pipelines for task-level customization   
+⬜ Release VLA-X v0.1, bundled with reproducible baseline models and workflows   
+⬜ Start exploration on data reconstruction and collection for complex, real-world tasks   
+⬜ Conduct research on model optimization & training efficiency improvements   
+
+🎯 **Goal***: Evolve VLA-X into a flexible, research-ready framework capable of tackling real-world vision-language tasks, while optimizing data workflows and model training efficiency.
 
 # 🌟 **Contributors**  
 
